@@ -46,8 +46,8 @@ Besides coding and networking I am also a rover scout in CNE.
 
 # 📊 My EPIC stats
 <a href="https://github.com/ZePaiva/ZePaiva">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZePaiva&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZePaiva&hide=html,tex,roff,assembly,vhdl,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" height=220px/>
 </a>
 <a href="https://github.com/ZePaiva/ZePaiva">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZePaiva&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="ZePaiva's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZePaiva&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height=220px/>
 </a>
